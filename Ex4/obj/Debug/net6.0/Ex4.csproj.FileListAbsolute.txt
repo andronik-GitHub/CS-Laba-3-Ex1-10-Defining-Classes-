@@ -1,0 +1,15 @@
+E:\CourseTwo\ООП\OOP_Laba_3\Ex4\bin\Debug\net6.0\Ex4.exe
+E:\CourseTwo\ООП\OOP_Laba_3\Ex4\bin\Debug\net6.0\Ex4.deps.json
+E:\CourseTwo\ООП\OOP_Laba_3\Ex4\bin\Debug\net6.0\Ex4.runtimeconfig.json
+E:\CourseTwo\ООП\OOP_Laba_3\Ex4\bin\Debug\net6.0\Ex4.dll
+E:\CourseTwo\ООП\OOP_Laba_3\Ex4\bin\Debug\net6.0\Ex4.pdb
+E:\CourseTwo\ООП\OOP_Laba_3\Ex4\obj\Debug\net6.0\Ex4.csproj.AssemblyReference.cache
+E:\CourseTwo\ООП\OOP_Laba_3\Ex4\obj\Debug\net6.0\Ex4.GeneratedMSBuildEditorConfig.editorconfig
+E:\CourseTwo\ООП\OOP_Laba_3\Ex4\obj\Debug\net6.0\Ex4.AssemblyInfoInputs.cache
+E:\CourseTwo\ООП\OOP_Laba_3\Ex4\obj\Debug\net6.0\Ex4.AssemblyInfo.cs
+E:\CourseTwo\ООП\OOP_Laba_3\Ex4\obj\Debug\net6.0\Ex4.csproj.CoreCompileInputs.cache
+E:\CourseTwo\ООП\OOP_Laba_3\Ex4\obj\Debug\net6.0\Ex4.dll
+E:\CourseTwo\ООП\OOP_Laba_3\Ex4\obj\Debug\net6.0\refint\Ex4.dll
+E:\CourseTwo\ООП\OOP_Laba_3\Ex4\obj\Debug\net6.0\Ex4.pdb
+E:\CourseTwo\ООП\OOP_Laba_3\Ex4\obj\Debug\net6.0\Ex4.genruntimeconfig.cache
+E:\CourseTwo\ООП\OOP_Laba_3\Ex4\obj\Debug\net6.0\ref\Ex4.dll
