@@ -1,0 +1,15 @@
+E:\CourseTwo\ООП\OOP_Laba_3\Ex7\bin\Debug\net6.0\Ex7.exe
+E:\CourseTwo\ООП\OOP_Laba_3\Ex7\bin\Debug\net6.0\Ex7.deps.json
+E:\CourseTwo\ООП\OOP_Laba_3\Ex7\bin\Debug\net6.0\Ex7.runtimeconfig.json
+E:\CourseTwo\ООП\OOP_Laba_3\Ex7\bin\Debug\net6.0\Ex7.dll
+E:\CourseTwo\ООП\OOP_Laba_3\Ex7\bin\Debug\net6.0\Ex7.pdb
+E:\CourseTwo\ООП\OOP_Laba_3\Ex7\obj\Debug\net6.0\Ex7.csproj.AssemblyReference.cache
+E:\CourseTwo\ООП\OOP_Laba_3\Ex7\obj\Debug\net6.0\Ex7.GeneratedMSBuildEditorConfig.editorconfig
+E:\CourseTwo\ООП\OOP_Laba_3\Ex7\obj\Debug\net6.0\Ex7.AssemblyInfoInputs.cache
+E:\CourseTwo\ООП\OOP_Laba_3\Ex7\obj\Debug\net6.0\Ex7.AssemblyInfo.cs
+E:\CourseTwo\ООП\OOP_Laba_3\Ex7\obj\Debug\net6.0\Ex7.csproj.CoreCompileInputs.cache
+E:\CourseTwo\ООП\OOP_Laba_3\Ex7\obj\Debug\net6.0\Ex7.dll
+E:\CourseTwo\ООП\OOP_Laba_3\Ex7\obj\Debug\net6.0\refint\Ex7.dll
+E:\CourseTwo\ООП\OOP_Laba_3\Ex7\obj\Debug\net6.0\Ex7.pdb
+E:\CourseTwo\ООП\OOP_Laba_3\Ex7\obj\Debug\net6.0\Ex7.genruntimeconfig.cache
+E:\CourseTwo\ООП\OOP_Laba_3\Ex7\obj\Debug\net6.0\ref\Ex7.dll
